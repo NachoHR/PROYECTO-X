@@ -1,0 +1,1 @@
+window.location.hreaf='index.html'
